@@ -1,8 +1,13 @@
 package com.xinglongdayuan.rxjavatest;
 
+import android.database.Cursor;
+import android.icu.text.AlphabeticIndex;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
+
+import java.util.ArrayList;
+import java.util.List;
 
 import io.reactivex.Observable;
 import io.reactivex.ObservableEmitter;
@@ -76,5 +81,12 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+
+
+
+
+
     }
+
+
 }
